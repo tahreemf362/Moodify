@@ -40,5 +40,4 @@ Server will run on: http://localhost:3000
 
 
    
-   git clone https://github.com/yourusername/moodify.git
-   cd moodify
+   
